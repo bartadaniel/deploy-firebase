@@ -1,6 +1,6 @@
 # Deploy to Firebase
 
-A GitHub Action to deploy to Firebase Hosting
+A GitHub Action to deploy to Firebase
 
 - You can choose a specific branch to allow deployment by using the `TARGET_BRANCH` env var (`master` if not specified).
 - Make sure you have the `firebase.json` file in the repository
